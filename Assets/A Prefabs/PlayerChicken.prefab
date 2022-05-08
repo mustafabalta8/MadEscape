@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 4574478502077963591}
   - component: {fileID: 4574478502077963609}
   m_Layer: 0
-  m_Name: Chicken
+  m_Name: PlayerChicken
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -29,6 +29,7 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 5, y: 0, z: -21}
   m_LocalScale: {x: 3, y: 3, z: 3}
+  m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 7855064087341876419}
   - {fileID: 5695981316609134195}
@@ -110,6 +111,7 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0.878, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 4571203341416716374}
   m_RootOrder: 1
@@ -204,6 +206,7 @@ Transform:
   m_LocalRotation: {x: 0.0000000146683306, y: 0.7126188, z: -0, w: 0.7015515}
   m_LocalPosition: {x: 0.009333293, y: 0, z: -0.022666931}
   m_LocalScale: {x: 0.41356677, y: 0.41356668, z: 0.41356677}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 4571203341416716374}
   m_RootOrder: 0
@@ -227,6 +230,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1

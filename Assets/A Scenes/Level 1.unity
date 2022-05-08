@@ -5820,7 +5820,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4574478502077963609, guid: 8135c30710da570458d0fe1daaef598f, type: 3}
       propertyPath: isImmortal
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4574478502077963609, guid: 8135c30710da570458d0fe1daaef598f, type: 3}
       propertyPath: fixedJoystick
