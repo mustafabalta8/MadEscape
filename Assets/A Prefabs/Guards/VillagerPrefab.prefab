@@ -732,7 +732,7 @@ MonoBehaviour:
   speed: 7.5
   waitTime: 0.6
   turnSpeed: 180
-  viewDistance: 7.5
+  viewDistance: 8
   spotLight: {fileID: 1582790849174629138}
   viewMask:
     serializedVersion: 2
